@@ -26,7 +26,7 @@ A simple and fun web-based dice game for two players! Every time the page reload
 
 ### 📸 Demo
 
-![screenshot](images/demo.png) <!-- (Optional: Add your own screenshot here) -->
+![screenshot](assets/images/demo.png) <!-- (Optional: Add your own screenshot here) -->
 
 ---
 
